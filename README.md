@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there 👋
+
+My name is Doni.
+
+I'm interested in creative software engineering, among other things.
 
 <!--
 **vitringr/vitringr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
