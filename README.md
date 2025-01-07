@@ -1,6 +1,4 @@
-## Hey there 👋
-
-My name is Doni.
+Hey there. I'm Doni.
 
 I'm interested in creative software engineering, among other things.
 
