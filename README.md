@@ -31,13 +31,6 @@ I'm interested in creative software engineering, among other things.
   <img src="https://skillicons.dev/icons?i=vim" height="42" alt="vim logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677d395270129741a8ffb8a1?variant=dark" alt="roadmap.sh"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitringr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
 <!--
 **vitringr/vitringr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
