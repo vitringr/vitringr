@@ -1,10 +1,11 @@
-Hey there. I'm Doni.
-
-I'm interested in creative software engineering, among other things.
+<div align="center">
+  <p>Hey there. I'm Doni.</p>
+  <p>I'm interested in creative software engineering, among other things.</p>
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -13,7 +14,7 @@ I'm interested in creative software engineering, among other things.
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
@@ -22,7 +23,7 @@ I'm interested in creative software engineering, among other things.
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
