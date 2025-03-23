@@ -1,6 +1,6 @@
 <div align="center">
   <p>Hey there. I'm Doni.</p>
-  <p>I'm interested in creative software engineering, among other things.</p>
+  <p>I do creative software engineering, among other things.</p>
 </div>
 
 ###
