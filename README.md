@@ -28,6 +28,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
 </div>
