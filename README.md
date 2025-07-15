@@ -1,6 +1,6 @@
 <div align="center">
   <p>Hey there. I'm Doni.</p>
-  <p>Doing creative software engineering, among other things.</p>
+  <p>Doing creative software engineering & sorcery.</p>
 </div>
 
 ###
