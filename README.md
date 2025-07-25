@@ -26,7 +26,7 @@
   </div>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql" height="36" width="36" alt="MySQL logo"  />
-    <img src="https://skillicons.dev/icons?i=postgres" height="36" width="36" alt="PostgreSQL logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="sqlite logo"  />
     <img src="https://skillicons.dev/icons?i=git" height="36" width="36" alt="Git logo"  />
     <img src="https://skillicons.dev/icons?i=github" height="36" width="36" alt="Github logo"  />
     <img src="https://skillicons.dev/icons?i=bash" height="36" width="36" alt="Bash logo"  />
